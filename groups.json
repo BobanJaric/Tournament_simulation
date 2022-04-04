@@ -1,0 +1,165 @@
+{
+    "groupA": [
+        {
+            "name": "Katar",
+            "rank": 51
+        },
+        {
+            "name": "Ekvador",
+            "rank": 46
+        },
+        {
+            "name": "Senegal",
+            "rank": 20
+
+        },
+        {
+            "name": "Holandija",
+            "rank": 11
+
+        }
+    ],
+    "groupB": [
+        {
+            "name": "Engleska",
+            "rank": 5
+        },
+        {
+            "name": "Iran",
+            "rank": 21
+        },
+        {
+            "name": "SAD",
+            "rank": 15
+
+        },
+        {
+            "name": "Ukrajina",
+            "rank": 27
+
+        }
+    ],
+    "groupC": [
+        {
+            "name": "Argentina",
+            "rank": 4
+        },
+        {
+            "name": "Saudijska Arabija",
+            "rank": 49
+        },
+        {
+            "name": "Meksiko",
+            "rank": 9
+
+        },
+        {
+            "name": "Poljska",
+            "rank": 26
+
+        }
+    ],
+    "groupD": [
+        {
+            "name": "Francuska",
+            "rank": 3
+        },
+        {
+            "name": "Peru",
+            "rank": 22
+        },
+        {
+            "name": "Danska",
+            "rank": 11
+
+        },
+        {
+            "name": "Tunis",
+            "rank": 35
+
+        }
+    ],
+    "groupE": [
+        {
+            "name": "Španija",
+            "rank": 7
+        },
+        {
+            "name": "Novi Zeland",
+            "rank": 101
+        },
+        {
+            "name": "Nemačka",
+            "rank": 12
+
+        },
+        {
+            "name": "Japan",
+            "rank": 23
+
+        }
+    ],
+    "groupF": [
+        {
+            "name": "Belgija",
+            "rank": 2
+        },
+        {
+            "name": "Kanada",
+            "rank": 38
+        },
+        {
+            "name": "Maroko",
+            "rank": 10
+
+        },
+        {
+            "name": "Hrvatska",
+            "rank": 16
+
+        }
+    ],
+    "groupG": [
+        {
+            "name": "Brazil",
+            "rank": 1
+        },
+        {
+            "name": "Srbija",
+            "rank": 25
+        },
+        {
+            "name": "Švajcarska",
+            "rank": 14
+
+        },
+        {
+            "name": "Kamerun",
+            "rank": 37
+
+        }
+    ],
+    "groupH": [
+        {
+            "name": "Portugal",
+            "rank": 8
+        },
+        {
+            "name": "Gana",
+            "rank": 60
+        },
+        {
+            "name": "Urugvaj",
+            "rank": 13
+
+        },
+        {
+            "name": "Južna Koreja",
+            "rank": 29
+
+        }
+    ]
+
+}
+
+   
